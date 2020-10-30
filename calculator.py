@@ -2,6 +2,7 @@
 
 
 def add(item_1, item_2):
+	print("Adding two numbers ...")
     return item_1 + item_2
 
 
